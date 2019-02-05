@@ -1,5 +1,7 @@
 # linux-configuration
 
+### Priavate Key:  File name :PRIVATE KEY
+
 ## Linux-Server-Configuration
  This project is a part of Udacity Nanodegree Full Stack.
 
