@@ -298,5 +298,6 @@ Launch the Web Application:
    * http://youtube.com/
    * https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
    * https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04
+   * https://github.com/Prasannarajmallipudi/Linux-Server-Configuration
    
  
