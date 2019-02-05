@@ -230,7 +230,7 @@ change ownership to grader with:sudo chown -R grader:grader venv
 
 Activate the new environment: . venv/bin/activate
 
-###installing following Modules:
+## Installing following Modules:
   sudo apt-get install python-pip
   pip install httplib2
   pip install requests
