@@ -230,13 +230,15 @@ change ownership to grader with:sudo chown -R grader:grader venv
 
 Activate the new environment: . venv/bin/activate
 
-pip install httplib2
-pip install requests
-pip install --upgrade oauth2client
-pip install sqlalchemy
-pip install flask
-sudo apt-get install libpq-dev
-pip install psycopg2-binary
+###installing following Modules:
+  sudo apt-get install python-pip
+  pip install httplib2
+  pip install requests
+  pip install --upgrade oauth2client
+  pip install sqlalchemy
+  pip install flask
+  sudo apt-get install libpq-dev
+  pip install psycopg2-binary
 
 
  service apache2 reload
