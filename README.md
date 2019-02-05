@@ -293,5 +293,10 @@ sudo apt-get dist-upgrade
 
 Launch the Web Application:
   Open your browser to : (http://3.92.85.167.xip.io) Open your browser to : (http://ec2-3-92-85-167.compute-1.amazonaws.com)
-
+## Resources::
+   * http://flask.pocoo.org/
+   * http://youtube.com/
+   * https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+   * https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-18-04
+   
  
