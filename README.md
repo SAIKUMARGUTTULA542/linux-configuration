@@ -1,6 +1,6 @@
 # linux-configuration
 
-### Priavate Key:  File name :PRIVATE KEY
+### Priavate Key:  File name :Private Key RSA
 
 ## Linux-Server-Configuration
  This project is a part of Udacity Nanodegree Full Stack.
