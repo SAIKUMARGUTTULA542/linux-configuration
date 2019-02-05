@@ -1,6 +1,8 @@
 # linux-configuration
 
 ### Priavate Key:  File name :Private Key RSA
+User name: grader
+Password : grader
 
 ## Linux-Server-Configuration
  This project is a part of Udacity Nanodegree Full Stack.
